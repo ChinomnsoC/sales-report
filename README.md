@@ -1,4 +1,4 @@
-# sales-report
+# Sales-report
 
 This is a data pipeline with two tasks. 
 
