@@ -9,8 +9,8 @@ class ProcessOrders(Task):
     def run(self):
         with self.output().open('w') as f:
             print('May,100', file=f)
-            print('May,150', file=f)
-            print('June,90', file=f)
+            print('May,170', file=f)
+            print('June,89', file=f)
             print('June,210', file=f)
 
 
